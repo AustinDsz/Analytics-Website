@@ -6,7 +6,7 @@ export default function Nav() {
     <div class="pr-10 border-b-[1px] pb-3">
     <div class="flex justify-between">
     <div class='flex gap-4 mt-5'>
-        <li><img class="ml-10" src='logo.svg'/></li>
+        <ul><img class="ml-10" src='logo.svg'/></ul>
         <button type="button" class="inline-flex justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-600 ring-gray-300 hover:bg-gray-50" id="menu-button" aria-expanded="true" aria-haspopup="true">
             Home
         </button>

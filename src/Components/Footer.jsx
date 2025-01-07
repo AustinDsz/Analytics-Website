@@ -63,7 +63,7 @@ export default function Footer() {
         </div>
         <div class=" p-10">
             <div class="border-t-[1px] p-10 flex justify-between">
-                    <img src="figma.svg" width={50} height={50} />
+                    <img src="logo.svg" />
                     <p class="text-gray-500">© 2077 zysktechnologies. All rights reserved.</p>
             </div>
         </div>
